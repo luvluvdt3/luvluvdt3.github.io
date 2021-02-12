@@ -241,7 +241,7 @@ p {
 /*End of Header*/
 /* Hero Section */
 #hero {
-  background-image: url(../img/iutgif.gif);
+  background-image: url(./iutgif.gif);
   background-size: cover;
   background-position: top center;
   position: relative;
